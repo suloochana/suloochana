@@ -41,6 +41,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sulochana-dananjani-0a7421314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sulochana-dananjani-0a7421314" height="30" width="40" /></a>
 <a href="https://instagram.com/__sulochanaa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sulochanaa__" height="30" width="40" /></a>
+ <a href="https://fb.com/100081883029587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100081883029587" height="30" width="40" /></a>
 </p>
 
 ---
